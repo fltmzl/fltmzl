@@ -1,8 +1,9 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/79774904?v=4"  />
-</div>
-
 ### Halo Saya Abdul Rizki 👋
+
+I am a student majoring in Information Systems at STEKOM University Semarang, currently in my 8th semester. My main focus is on web development, both on the Frontend and Backend.
+
+My experience and knowledge includes various Frontend technologies such as HTML, CSS, JavaScript, and Typescript as well as expertise in frameworks such as ReactJS and NextJS to create responsive and dynamic user interfaces. On the Backend side, I have worked with frameworks such as ExpressJS, HapiJS, NestJS and Laravel to build robust and efficient APIs.
+
 
 <!--
 **fltmzl/fltmzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
