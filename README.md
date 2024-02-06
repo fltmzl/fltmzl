@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/79774904?v=4"  />
+</div>
+
 ### Halo Saya Abdul Rizki 👋
 
 <!--
